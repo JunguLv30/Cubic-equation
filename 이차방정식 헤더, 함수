@@ -1,0 +1,12 @@
+#include <stdio.h>
+double a, b, c, x1, x2, rute1, rute2, flag;
+
+/*
+변수 설명:
+기본적으로 이차방정식의 형태는 a
+a : 이차방정식의 이차항의 계수
+b : 이차방정식의 일차항의 계수
+c : 이차방정식의 상수항
+;
+void get_input(double a, double b, double c) {
+  scanf("%lf %lf %lf"
